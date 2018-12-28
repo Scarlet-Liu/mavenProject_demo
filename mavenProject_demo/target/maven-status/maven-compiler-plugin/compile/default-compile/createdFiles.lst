@@ -1,0 +1,5 @@
+com\jx\maven\model\User.class
+com\jx\maven\dao\UserDao.class
+com\jx\maven\controller\UserController.class
+com\jx\maven\service\UserService.class
+com\jx\maven\service\impl\UserServiceImpl.class
